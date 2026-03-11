@@ -31,6 +31,5 @@ The dashboard helps analyze sales performance, profitability, and customer segme
 ## Project Purpose
 The objective of this project is to demonstrate data analysis and dashboard design skills using Excel for business decision support.
 ---
-Author: Sreerag 
-BCA Data Science Student
-GitHub: https://github.com/sreeragsrinu
+Author: Sreerag S
+/BCA Data Science Student
